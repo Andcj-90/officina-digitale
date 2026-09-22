@@ -9,22 +9,22 @@
 # nella forma @nome-utente oppure @tua-org/nome-team.
 
 # Regola di riserva: se nessuna riga piu' specifica corrisponde, vale questa.
-*                       @TUO-UTENTE
+*                       @Andcj-90
 
 # Calcolo delle fatture: la parte che tocca i soldi.
-/src/fatture.js         @TUO-UTENTE
-/test/                  @TUO-UTENTE
+/src/fatture.js         @CONSULTECH-SC/prodotto
+/test/                  @CONSULTECH-SC/prodotto
 
 # Anagrafica clienti.
-/src/clienti.js         @TUO-UTENTE
+/src/clienti.js         @CONSULTECH-SC/prodotto
 
 # Listino prezzi: lo decide il commerciale, non chi scrive codice.
-/listino.csv            @TUO-UTENTE
+/listino.csv            @CONSULTECH-SC/commerciale
 
 # Documenti aziendali.
-/docs/                  @TUO-UTENTE
-/TEAM.md                @TUO-UTENTE
+/docs/                  @Andcj-90
+/TEAM.md                @Andcj-90
 
 # Sicurezza e automazioni.
-/SECURITY.md            @TUO-UTENTE
-/.github/workflows/     @TUO-UTENTE
+/SECURITY.md            @Andcj-90
+/.github/workflows/     @Andcj-90
